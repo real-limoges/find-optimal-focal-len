@@ -29,6 +29,7 @@ def void_histogram(d, title, lim=None):
   fig = plot.get_figure()
 
   fig.savefig('../images/{}.png'.format(title))
+  plt.close()
 
 if __name__ == '__main__':
 
