@@ -1,0 +1,1 @@
+This repository will help inform me what focal lengths I prefer. I'm in the market for a new full frame Canon lens, but can't decide what fixed length I want to purchase. It needs to be a fixed length so I can get a wider aperature for astrophotography.
